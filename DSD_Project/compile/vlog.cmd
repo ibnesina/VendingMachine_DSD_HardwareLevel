@@ -1,0 +1,1 @@
+-o C:/Users/ccc/Desktop/Final/DSD_Project/DSD_Project/compile -lc C:/Users/ccc/Desktop/Final/DSD_Project/library.cfg -fl C:/Users/ccc/Desktop/Final/DSD_Project/DSD_Project/projlib.cfg -pli "C:/Aldec/Active-HDL-Student-Edition/bin/systf.dll" -O2 -sve -msg 5 -sv2k17 -work DSD_Project C:/Users/ccc/Desktop/Final/DSD_Project/DSD_Project/src/vending_machine.v 

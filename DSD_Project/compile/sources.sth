@@ -1,0 +1,15 @@
+[Files List]
+C:/Aldec/Active-HDL-Student-Edition/vlib/std/src/standard.vhd=S
+C:/Users/ccc/Desktop/Final/DSD_Project/DSD_Project/src/half_adder.v=S
+C:/Users/ccc/Desktop/Final/DSD_Project/DSD_Project/src/full_adder.v=S
+C:/Users/ccc/Desktop/Final/DSD_Project/DSD_Project/src/parallel_subtractor.v=S
+C:/Users/ccc/Desktop/Final/DSD_Project/DSD_Project/src/parallel_adder.v=S
+C:/Users/ccc/Desktop/Final/DSD_Project/DSD_Project/src/comparator_4bit.v=S
+C:/Users/ccc/Desktop/Final/DSD_Project/DSD_Project/src/multiplier_4bit.v=S
+C:/Users/ccc/Desktop/Final/DSD_Project/DSD_Project/src/D_Flip_Flop.v=S
+C:/Users/ccc/Desktop/Final/DSD_Project/DSD_Project/src/Decoder3to8.v=S
+C:/Users/ccc/Desktop/Final/DSD_Project/DSD_Project/src/return_value.v=S
+C:/Users/ccc/Desktop/Final/DSD_Project/DSD_Project/src/alu_4bit.v=S
+C:/Users/ccc/Desktop/Final/DSD_Project/DSD_Project/src/Register.v=S
+C:/Users/ccc/Desktop/Final/DSD_Project/DSD_Project/src/control_logic.v=S
+C:/Users/ccc/Desktop/Final/DSD_Project/DSD_Project/src/vending_machine.v=S
